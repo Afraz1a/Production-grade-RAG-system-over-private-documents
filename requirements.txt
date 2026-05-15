@@ -1,0 +1,14 @@
+
+langchain
+langchain-openai
+langchain-community
+chromadb
+sentence-transformers
+rank_bm25
+pypdf
+python-dotenv
+fastapi
+uvicorn[standard]
+python-multipart
+streamlit
+ragas

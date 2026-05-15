@@ -1,0 +1,15 @@
+[server]
+runOnSave = false
+fileWatcherType = "none"
+headless = true
+
+[browser]
+gatherUsageStats = false
+serverAddress = "localhost"
+
+[runner]
+fastReruns = true
+magicEnabled = false
+
+[client]
+showErrorDetails = false
